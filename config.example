@@ -1,0 +1,4 @@
+email=email@email.com
+password=twitterpassword
+waitTime=2000
+logprogress=false
