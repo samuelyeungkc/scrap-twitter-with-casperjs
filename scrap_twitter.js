@@ -89,7 +89,7 @@ casper.then(function(){
 		console.log('tweet=', stream[i].tweet);
 	}
 
-	console.log('done');
+	console.log('---Completed');
 });
 
 casper.run();
